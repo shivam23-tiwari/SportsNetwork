@@ -1,0 +1,6 @@
+{
+  "name": "SportsNetwork",
+  "description": "A production-ready full-stack sports news website resembling ESPN, complete with live mock data, API routes, scalable architecture, MongoDB schemas, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

@@ -1,0 +1,339 @@
+[
+  {
+    "id": "357",
+    "uid": "s:600~t:357",
+    "type": "team",
+    "order": 0,
+    "homeAway": "home",
+    "winner": false,
+    "form": "LDWWW",
+    "score": "0",
+    "records": [
+      {
+        "name": "All Splits",
+        "type": "total",
+        "summary": "9-13-12",
+        "abbreviation": "Total"
+      }
+    ],
+    "team": {
+      "id": "357",
+      "uid": "s:600~t:357",
+      "abbreviation": "LEE",
+      "displayName": "Leeds United",
+      "shortDisplayName": "Leeds",
+      "name": "Leeds United",
+      "location": "Leeds United",
+      "color": "ffffff",
+      "alternateColor": "0000FF",
+      "isActive": true,
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+      "links": [
+        {
+          "rel": [
+            "clubhouse",
+            "desktop",
+            "team"
+          ],
+          "href": "https://www.espn.com/soccer/club/_/id/357/leeds-united",
+          "text": "Clubhouse",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "rel": [
+            "stats",
+            "desktop",
+            "team"
+          ],
+          "href": "https://www.espn.com/soccer/team/stats/_/id/357/leeds-united",
+          "text": "Stats",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "rel": [
+            "schedule",
+            "desktop",
+            "team"
+          ],
+          "href": "https://www.espn.com/soccer/team/fixtures/_/id/357/leeds-united",
+          "text": "Fixtures",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "rel": [
+            "squad",
+            "desktop",
+            "team"
+          ],
+          "href": "https://www.espn.com/soccer/team/squad/_/id/357/leeds-united",
+          "text": "Squad",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        }
+      ],
+      "venue": {
+        "id": "190"
+      }
+    },
+    "statistics": [],
+    "leaders": [
+      {
+        "name": "goals",
+        "displayName": "Goals",
+        "shortDisplayName": "Goals",
+        "abbreviation": "G",
+        "leaders": [
+          {
+            "displayValue": "11",
+            "value": 11,
+            "athlete": {
+              "id": "197717",
+              "displayName": "Dominic Calvert-Lewin",
+              "shortName": "D. Calvert-Lewin",
+              "fullName": "Dominic Calvert-Lewin",
+              "jersey": "9",
+              "active": true,
+              "team": {
+                "id": "357"
+              },
+              "links": [
+                {
+                  "rel": [
+                    "playercard",
+                    "desktop",
+                    "athlete"
+                  ],
+                  "href": "https://www.espn.com/soccer/player/_/id/197717/dominic-calvert-lewin",
+                  "isHidden": false
+                }
+              ],
+              "position": {
+                "abbreviation": "F"
+              }
+            },
+            "team": {
+              "id": "357"
+            }
+          }
+        ]
+      },
+      {
+        "name": "goalsLeaders",
+        "displayName": "Goals",
+        "shortDisplayName": "Goals",
+        "abbreviation": "G",
+        "leaders": [
+          {
+            "displayValue": "11",
+            "value": 11,
+            "athlete": {
+              "id": "197717",
+              "displayName": "Dominic Calvert-Lewin",
+              "shortName": "D. Calvert-Lewin",
+              "fullName": "Dominic Calvert-Lewin",
+              "jersey": "9",
+              "active": true,
+              "team": {
+                "id": "357"
+              },
+              "links": [
+                {
+                  "rel": [
+                    "playercard",
+                    "desktop",
+                    "athlete"
+                  ],
+                  "href": "https://www.espn.com/soccer/player/_/id/197717/dominic-calvert-lewin",
+                  "isHidden": false
+                }
+              ],
+              "position": {
+                "abbreviation": "F"
+              }
+            },
+            "team": {
+              "id": "357"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "379",
+    "uid": "s:600~t:379",
+    "type": "team",
+    "order": 1,
+    "homeAway": "away",
+    "winner": false,
+    "form": "LLLLD",
+    "score": "0",
+    "records": [
+      {
+        "name": "All Splits",
+        "type": "total",
+        "summary": "4-8-22",
+        "abbreviation": "Total"
+      }
+    ],
+    "team": {
+      "id": "379",
+      "uid": "s:600~t:379",
+      "abbreviation": "BUR",
+      "displayName": "Burnley",
+      "shortDisplayName": "Burnley",
+      "name": "Burnley",
+      "location": "Burnley",
+      "color": "6C1D45",
+      "alternateColor": "00FFFF",
+      "isActive": true,
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
+      "links": [
+        {
+          "rel": [
+            "clubhouse",
+            "desktop",
+            "team"
+          ],
+          "href": "https://www.espn.com/soccer/club/_/id/379/burnley",
+          "text": "Clubhouse",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "rel": [
+            "stats",
+            "desktop",
+            "team"
+          ],
+          "href": "https://www.espn.com/soccer/team/stats/_/id/379/burnley",
+          "text": "Stats",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "rel": [
+            "schedule",
+            "desktop",
+            "team"
+          ],
+          "href": "https://www.espn.com/soccer/team/fixtures/_/id/379/burnley",
+          "text": "Fixtures",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "rel": [
+            "squad",
+            "desktop",
+            "team"
+          ],
+          "href": "https://www.espn.com/soccer/team/squad/_/id/379/burnley",
+          "text": "Squad",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        }
+      ],
+      "venue": {
+        "id": "197"
+      }
+    },
+    "statistics": [],
+    "leaders": [
+      {
+        "name": "goals",
+        "displayName": "Goals",
+        "shortDisplayName": "Goals",
+        "abbreviation": "G",
+        "leaders": [
+          {
+            "displayValue": "9",
+            "value": 9,
+            "athlete": {
+              "id": "261598",
+              "displayName": "Zian Flemming",
+              "shortName": "Z. Flemming",
+              "fullName": "Zian Flemming",
+              "jersey": "19",
+              "active": true,
+              "team": {
+                "id": "379"
+              },
+              "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/261598.png",
+              "links": [
+                {
+                  "rel": [
+                    "playercard",
+                    "desktop",
+                    "athlete"
+                  ],
+                  "href": "https://www.espn.com/soccer/player/_/id/261598/zian-flemming",
+                  "isHidden": false
+                }
+              ],
+              "position": {
+                "abbreviation": "F"
+              }
+            },
+            "team": {
+              "id": "379"
+            }
+          }
+        ]
+      },
+      {
+        "name": "goalsLeaders",
+        "displayName": "Goals",
+        "shortDisplayName": "Goals",
+        "abbreviation": "G",
+        "leaders": [
+          {
+            "displayValue": "9",
+            "value": 9,
+            "athlete": {
+              "id": "261598",
+              "displayName": "Zian Flemming",
+              "shortName": "Z. Flemming",
+              "fullName": "Zian Flemming",
+              "jersey": "19",
+              "active": true,
+              "team": {
+                "id": "379"
+              },
+              "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/261598.png",
+              "links": [
+                {
+                  "rel": [
+                    "playercard",
+                    "desktop",
+                    "athlete"
+                  ],
+                  "href": "https://www.espn.com/soccer/player/_/id/261598/zian-flemming",
+                  "isHidden": false
+                }
+              ],
+              "position": {
+                "abbreviation": "F"
+              }
+            },
+            "team": {
+              "id": "379"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
+Status: Fri, May 1st at 3:00 PM EDT
