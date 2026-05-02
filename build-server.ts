@@ -4,7 +4,10 @@ esbuild.build({
   entryPoints: ['server.ts'],
   bundle: true,
   platform: 'node',
-  format: 'esm',
-  outfile: 'dist/server.mjs',
-  external: ['express', 'mongoose', 'axios', 'vite'],
+  format: 'cjs',
+  outfile: 'dist/server.cjs',
+  external: ['express', 'mongoose', 'axios', 'vite', 'jsonwebtoken'],
+  define: {
+    'import.meta.url': JSON.stringify('file://placeholder'),
+  },
 }).catch(() => process.exit(1));
